@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+}
+
+.text-box{
+  background-color: green;
+  font-size: large;
+  font-weight: bold;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 10px 2px 2px 3px;
+  width: 50%;
+}
+
+#editor{
+  background-color: rgb(2, 14, 0);
+  color: green;
+  height: 90%;
+  width: 99%;
+}
+
+#preview{
+  background-color: white;
+  font-weight: normal;
+  height: 95%;
+  overflow: scroll;
+  width: 99.8%;
+}
+
+#previewer{
+  background-color: gray;
+  font-size: large;
+  font-weight: bold;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 10px 2px 2px 3px;
+  width: 70%;
+}
